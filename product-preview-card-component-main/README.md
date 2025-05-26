@@ -22,7 +22,7 @@ Users should be able to:
 ### Screenshot
 
 You'll find a screenshot of the finished project in 
-- [desktop-screenshot](screenshot/Screenshot 2023-12-27 at 20-49-44 Frontend Mentor Product preview card component.png)
+- [desktop-screenshot](screenshotScreenshot2023-12-27at20-50-06FrontendMentorProductpreviewcardcomponent.png)
 - [mobile-screenshot](screenshot/Screenshot 2023-12-27 at 20-50-06 Frontend Mentor Product preview card component.png)
 
 both mobile and desktop are avalabile they might be a bit heavy as i didn't optimize them X_X 
